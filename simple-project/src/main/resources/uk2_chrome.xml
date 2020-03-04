@@ -9,7 +9,7 @@
     <parameter name="lUsername" value="QAtestMykolaChiHome" />
     <parameter name="lPassword" value="q1234567" />
     <parameter name="eXistingDomain" value="qatest1403191007.company"/>
-    <parameter name="tPin" value="8474"></parameter>
+    <parameter name="tPin" value="1111"></parameter>
     <test name="HomeChromeUK2">
 
         <classes>
